@@ -1,0 +1,3 @@
+git colne "remote path"
+git push orgin branch
+git pull
