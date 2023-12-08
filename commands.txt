@@ -1,0 +1,6 @@
+git colne "remote path"
+git push orgin branch
+git pull : changes in remote repositry to local repositry
+git init : for initializing empty git repositry
+git add -A 
+git commit -m "message"
